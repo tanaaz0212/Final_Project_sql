@@ -1,13 +1,3 @@
--- ==========================================================
--- DROP TABLES
--- ==========================================================
-
-DROP TABLE IF EXISTS Enrollments;
-DROP TABLE IF EXISTS Instructors;
-DROP TABLE IF EXISTS Courses;
-DROP TABLE IF EXISTS Students;
-DROP TABLE IF EXISTS Departments;
-
 CREATE DATABASE IF NOT EXISTS final;
 USE final;
 
